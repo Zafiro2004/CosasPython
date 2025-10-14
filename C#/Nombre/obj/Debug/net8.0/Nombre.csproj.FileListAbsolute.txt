@@ -1,0 +1,14 @@
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\bin\Debug\net8.0\Nombre.exe
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\bin\Debug\net8.0\Nombre.deps.json
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\bin\Debug\net8.0\Nombre.runtimeconfig.json
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\bin\Debug\net8.0\Nombre.dll
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\bin\Debug\net8.0\Nombre.pdb
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.AssemblyInfoInputs.cache
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.AssemblyInfo.cs
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.csproj.CoreCompileInputs.cache
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.dll
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\refint\Nombre.dll
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.pdb
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\Nombre.genruntimeconfig.cache
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\Nombre\obj\Debug\net8.0\ref\Nombre.dll

@@ -1,0 +1,14 @@
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\Users\alexd\OneDrive\Alex\DAM2526\Programas\C#\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll
