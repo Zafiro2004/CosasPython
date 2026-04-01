@@ -27,19 +27,22 @@ import turtle as t
 def arbre(nivell, mida):
     if nivell == 1:
         t.forward(mida)
-        t.backward(mida)
+        t.forward(-mida)
     else:
         t.forward(mida)
         t.right(-45)
-        arbre(nivell - 1, mida * 0.7)
+        arbre(nivell - 1, mida)
         t.right(90)
-        arbre(nivell - 1, mida * 0.7)
+        arbre(nivell - 1, mida)
         t.right(-45)
         t.backward(mida)
 def main():
-    t.speed(1)
+    nivell = 3
+    if nivell == 0:
+        return
     t.left(90)
-    arbre(4, 100)
+    arbre(nivell, 100)
     t.exitonclick()
 
-main()
+if __name__ == "__main__":
+    main()
